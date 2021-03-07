@@ -1,0 +1,9 @@
+D:\dev\Note\Note.Model\bin\Debug\netcoreapp3.1\Note.Model.deps.json
+D:\dev\Note\Note.Model\bin\Debug\netcoreapp3.1\Note.Model.dll
+D:\dev\Note\Note.Model\bin\Debug\netcoreapp3.1\Note.Model.pdb
+D:\dev\Note\Note.Model\obj\Debug\netcoreapp3.1\Note.Model.csprojAssemblyReference.cache
+D:\dev\Note\Note.Model\obj\Debug\netcoreapp3.1\Note.Model.AssemblyInfoInputs.cache
+D:\dev\Note\Note.Model\obj\Debug\netcoreapp3.1\Note.Model.AssemblyInfo.cs
+D:\dev\Note\Note.Model\obj\Debug\netcoreapp3.1\Note.Model.csproj.CoreCompileInputs.cache
+D:\dev\Note\Note.Model\obj\Debug\netcoreapp3.1\Note.Model.dll
+D:\dev\Note\Note.Model\obj\Debug\netcoreapp3.1\Note.Model.pdb

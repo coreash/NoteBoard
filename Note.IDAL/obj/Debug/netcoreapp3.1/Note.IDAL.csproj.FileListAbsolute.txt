@@ -1,0 +1,12 @@
+D:\dev\Note\Note.IDAL\bin\Debug\netcoreapp3.1\Note.IDAL.deps.json
+D:\dev\Note\Note.IDAL\bin\Debug\netcoreapp3.1\Note.IDAL.dll
+D:\dev\Note\Note.IDAL\bin\Debug\netcoreapp3.1\Note.IDAL.pdb
+D:\dev\Note\Note.IDAL\bin\Debug\netcoreapp3.1\Note.Model.dll
+D:\dev\Note\Note.IDAL\bin\Debug\netcoreapp3.1\Note.Model.pdb
+D:\dev\Note\Note.IDAL\obj\Debug\netcoreapp3.1\Note.IDAL.csprojAssemblyReference.cache
+D:\dev\Note\Note.IDAL\obj\Debug\netcoreapp3.1\Note.IDAL.AssemblyInfoInputs.cache
+D:\dev\Note\Note.IDAL\obj\Debug\netcoreapp3.1\Note.IDAL.AssemblyInfo.cs
+D:\dev\Note\Note.IDAL\obj\Debug\netcoreapp3.1\Note.IDAL.csproj.CoreCompileInputs.cache
+D:\dev\Note\Note.IDAL\obj\Debug\netcoreapp3.1\Note.IDAL.csproj.CopyComplete
+D:\dev\Note\Note.IDAL\obj\Debug\netcoreapp3.1\Note.IDAL.dll
+D:\dev\Note\Note.IDAL\obj\Debug\netcoreapp3.1\Note.IDAL.pdb

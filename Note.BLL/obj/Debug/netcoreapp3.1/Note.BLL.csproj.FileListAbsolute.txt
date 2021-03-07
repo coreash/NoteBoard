@@ -1,0 +1,14 @@
+D:\dev\Note\Note.BLL\bin\Debug\netcoreapp3.1\Note.BLL.deps.json
+D:\dev\Note\Note.BLL\bin\Debug\netcoreapp3.1\Note.BLL.dll
+D:\dev\Note\Note.BLL\bin\Debug\netcoreapp3.1\Note.BLL.pdb
+D:\dev\Note\Note.BLL\bin\Debug\netcoreapp3.1\Note.IDAL.dll
+D:\dev\Note\Note.BLL\bin\Debug\netcoreapp3.1\Note.Model.dll
+D:\dev\Note\Note.BLL\bin\Debug\netcoreapp3.1\Note.IDAL.pdb
+D:\dev\Note\Note.BLL\bin\Debug\netcoreapp3.1\Note.Model.pdb
+D:\dev\Note\Note.BLL\obj\Debug\netcoreapp3.1\Note.BLL.csprojAssemblyReference.cache
+D:\dev\Note\Note.BLL\obj\Debug\netcoreapp3.1\Note.BLL.AssemblyInfoInputs.cache
+D:\dev\Note\Note.BLL\obj\Debug\netcoreapp3.1\Note.BLL.AssemblyInfo.cs
+D:\dev\Note\Note.BLL\obj\Debug\netcoreapp3.1\Note.BLL.csproj.CoreCompileInputs.cache
+D:\dev\Note\Note.BLL\obj\Debug\netcoreapp3.1\Note.BLL.csproj.CopyComplete
+D:\dev\Note\Note.BLL\obj\Debug\netcoreapp3.1\Note.BLL.dll
+D:\dev\Note\Note.BLL\obj\Debug\netcoreapp3.1\Note.BLL.pdb
